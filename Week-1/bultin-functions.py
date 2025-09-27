@@ -5,3 +5,6 @@ print("Asabeneh")
 print(len("Asabeneh"))
 print(type("Asabeneh"))
 print(len("eye bail"))
+print(len(["heejd","frne","totmr"]))
+
+input("What is your name? ")
