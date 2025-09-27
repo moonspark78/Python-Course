@@ -7,4 +7,6 @@ print(type("Asabeneh"))
 print(len("eye bail"))
 print(len(["heejd","frne","totmr"]))
 
-input("What is your name? ")
+#variable are a place where to store data
+first_name = input("What is your first name? ")
+print(first_name)
