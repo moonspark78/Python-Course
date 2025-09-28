@@ -28,4 +28,6 @@ print(abs(-5))
 #Donc il faut convertir le str en int
 print(2 + int('2'))
 print(str(2) + '02')
-print("hello" + 'world')
+print("hello" + " " +'world')
+print(sum([2,3,5]))
+print(min(2,3,5,-5))
