@@ -23,3 +23,9 @@ print(round(3.5))
 
 
 # abs(), int(), str(), sum(), min(), max(), type(), bool(), range(), id(), dir()
+print(abs(-5))
+#print(2 + '2') #TypeError: unsupported operand type(s) for +: 'int' and 'str'
+#Donc il faut convertir le str en int
+print(2 + int('2'))
+print(str(2) + '02')
+print("hello" + 'world')
