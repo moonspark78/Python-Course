@@ -20,3 +20,6 @@ print(round(3.14))
 print(round(2.51))
 print(round(2.5))
 print(round(3.5))
+
+
+# abs(), int(), str(), sum(), min(), max(), type(), bool(), range(), id(), dir()
