@@ -13,3 +13,10 @@ print(len(["heejd","frne","totmr"])) """
 age = input("How old are you? ")
 print(first_name)
 print(age) """
+
+#Round
+print(round(9.81))
+print(round(3.14))
+print(round(2.51))
+print(round(2.5))
+print(round(3.5))
