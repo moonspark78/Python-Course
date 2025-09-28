@@ -40,3 +40,12 @@ print(type({"name":"Asabeneh"}))
 print(type({1,2,3}))
 print(type(True))
 print(type(2+3j))
+
+#Bool
+print(type(True))
+print(type(False))
+print(type(1>0))
+print(len("Asabeneh") > len("toto"))
+
+print(list(range(0,11)))
+print(id(10))
