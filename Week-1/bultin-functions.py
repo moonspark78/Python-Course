@@ -49,3 +49,4 @@ print(len("Asabeneh") > len("toto"))
 
 print(list(range(0,11)))
 print(id(10))
+print(dir('eldjen'))
