@@ -1,0 +1,1 @@
+print('We will learn Data Types in Python')
