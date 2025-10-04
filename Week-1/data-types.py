@@ -17,3 +17,5 @@ print(type("Hello, World!")) #string
 
 print('True')
 print(type('True')) #string
+
+print(len("Hello, World!")) #string length
