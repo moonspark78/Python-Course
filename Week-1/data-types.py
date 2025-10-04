@@ -8,3 +8,6 @@ print(type(10)) #int
 
 print(3.14)
 print(type(3.14)) #float
+
+print(1 + 2j)
+print(type(1 + 2j)) #complex
