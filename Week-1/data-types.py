@@ -11,3 +11,9 @@ print(type(3.14)) #float
 
 print(1 + 2j)
 print(type(1 + 2j)) #complex
+
+print("Hello, World!")
+print(type("Hello, World!")) #string
+
+print('True')
+print(type('True')) #string
