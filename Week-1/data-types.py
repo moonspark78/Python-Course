@@ -25,3 +25,11 @@ print(len("Hello, World!")) #string length
 print([1, 2, 3, 4, 5])
 print(type([1, 2, 3, 4, 5])) #list
 print(["apple", "banana", "cherry"])
+
+#Tuple
+print((1, 2, 3, 4, 5))
+print(type((1, 2, 3, 4, 5))) #tuple
+
+#Set
+print({1, 2, 3, 4, 5})
+print(type({1, 2, 3, 4, 5})) #set
