@@ -33,3 +33,7 @@ print(type((1, 2, 3, 4, 5))) #tuple
 #Set
 print({1, 2, 3, 4, 5})
 print(type({1, 2, 3, 4, 5})) #set
+
+#Dictionary
+print({"name": "John", "age": 30, "city": "New York"})
+print(type({"name": "John", "age": 30, "city": "New York"})) #dictionary
