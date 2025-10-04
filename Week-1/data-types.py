@@ -19,3 +19,9 @@ print('True')
 print(type('True')) #string
 
 print(len("Hello, World!")) #string length
+
+
+#List
+print([1, 2, 3, 4, 5])
+print(type([1, 2, 3, 4, 5])) #list
+print(["apple", "banana", "cherry"])
