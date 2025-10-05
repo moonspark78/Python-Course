@@ -9,3 +9,10 @@ print(a)
 print(b)
 print(c)
 print(a-b)
+
+first_name = "John"
+last_name = "Doe"
+age = 25
+country = "USA"
+city = "New York"
+current_year = 2024
