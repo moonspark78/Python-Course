@@ -5,6 +5,8 @@
 a = 5
 b = 3
 c = a + b
+product = a * b
+print("product: ", product)
 print(a)
 print(b)
 print(c)
@@ -16,3 +18,11 @@ age = 25
 country = "USA"
 city = "New York"
 current_year = 2024
+
+## Invalid variables names
+
+#first-name
+#first@name
+#first$name
+#num-1
+#1num
