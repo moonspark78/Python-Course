@@ -5,3 +5,7 @@
 value = 3 > 2  # True
 print(value)
 print(3>=2)
+print(3<2)
+print(3<=2)
+print(3==2)
+print(3=='3')
