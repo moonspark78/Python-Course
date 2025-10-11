@@ -17,5 +17,6 @@ print(10<5 or 5<8) # False or True => True
 print(10>5 or 5>8) # True or True => True
 print(10<5 or 5>8) # False or False => False
 
-
+# not, negation
+print(not True) # False
 
