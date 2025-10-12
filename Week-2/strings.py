@@ -5,3 +5,4 @@
 
 l ='jbjfbjfejbfebfuslkjzifbebir'
 print(l)
+print(len(l))
