@@ -21,4 +21,4 @@ print(10<5 or 5>8) # False or False => False
 print(not True) # False
 
 print(not 10<5 or 5<8) #true
-print(not 10<5 and not 5>8) #True
+print(not 10<5 and not 5>8) #True 
