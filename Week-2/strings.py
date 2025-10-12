@@ -6,3 +6,6 @@
 l ='jbjfbjfejbfebfuslkjzifbebir'
 print(l)
 print(len(l))
+
+vowels = 'aeiouy'
+consosnants = 'bcdfghjklmnpqrstvwxz'
