@@ -9,3 +9,5 @@ print(len(l))
 
 vowels = 'aeiouy'
 consosnants = 'bcdfghjklmnpqrstvwxz'
+print("the length of vowels: " ,len(vowels))
+print("the length of consosants: ", len(consosnants))
