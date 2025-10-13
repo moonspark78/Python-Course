@@ -18,3 +18,4 @@ challenge = '30 days Of python'
 print(challenge.upper())
 print(challenge.title())
 print(challenge.swapcase())
+print(challenge.find('0'))
