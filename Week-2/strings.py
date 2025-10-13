@@ -13,3 +13,8 @@ print("the length of vowels: " ,len(vowels))
 print("the length of consosants: ", len(consosnants))
 print(l.upper())
 print(dir(l)) # dir() function shows all the methods that can be used with a string
+
+challenge = '30 days of python'
+print(challenge.upper())
+
+
