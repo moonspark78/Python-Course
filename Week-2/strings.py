@@ -14,7 +14,7 @@ print("the length of consosants: ", len(consosnants))
 print(l.upper())
 print(dir(l)) # dir() function shows all the methods that can be used with a string
 
-challenge = '30 days of python'
+challenge = '30 days Of python'
 print(challenge.upper())
-
-
+print(challenge.title())
+print(challenge.swapcase())
