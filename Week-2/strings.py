@@ -21,3 +21,7 @@ print(challenge.swapcase())
 print(challenge.find('0'))
 print(challenge.find('y'))
 print(challenge.find('f'))
+
+
+language = 'python'
+print(language.upper())
