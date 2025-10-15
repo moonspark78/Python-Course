@@ -27,3 +27,4 @@ language = 'python'
 print(language.upper())
 print(language.title())
 print(language[0])
+print(language[0:2])
