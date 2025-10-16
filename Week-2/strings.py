@@ -36,3 +36,7 @@ print(language[::-1])
 print(language.lower())
 print(language.islower())
 print(language.count('o'))
+
+city = 'mississipi'
+print(city.count('s'))
+print(city.count('i'))
