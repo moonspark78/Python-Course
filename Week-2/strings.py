@@ -40,3 +40,6 @@ print(language.count('o'))
 city = 'mississipi'
 print(city.count('s'))
 print(city.count('i'))
+print(city.count('p'))
+print(city.count('m'))
+print(city.find('i'))
