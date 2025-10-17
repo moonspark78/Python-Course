@@ -47,3 +47,4 @@ print(city.rfind('i'))
 print(city.strip())
 print(list(city))
 print(city.index('i'))
+print("What is the index ", city.find('I')) # it returns -1 because there is no uppercase I in mississipi
