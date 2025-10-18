@@ -53,3 +53,5 @@ print("What is the index ", city.find('I')) # it returns -1 because there is no 
 country = 'Finland'
 print(country.startswith('Fin'))
 print(country.startswith('fin')) # it is case sensitive donc it returns false
+print(country.endswith('land'))
+print(country.endswith('Land')) # it is case sensitive donc it returns false
