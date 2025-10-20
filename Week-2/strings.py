@@ -58,3 +58,6 @@ print(country.endswith('Land')) # it is case sensitive donc it returns false
 
 skills = ['HTML', 'CSS', 'JavaScript', 'Python', 'Django']
 print(' '.join(skills))  # join method joins the list elements with a space
+
+print('abc', isalpha())
+print('abc123', isalnum())
