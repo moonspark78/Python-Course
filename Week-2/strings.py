@@ -74,3 +74,7 @@ city = 'Helsinki'
 
 formatted_string = f'I am {first_name} {last_name}. I am {age} years old. I live in {city}, {country}.'
 print(formatted_string)
+
+a = 4
+b = 3
+print(f'{a} + {b} = {a + b}') # prints 4 + 3 = 7
