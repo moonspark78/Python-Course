@@ -71,3 +71,6 @@ last_name = 'Yetayeh'
 age = 250
 country = 'Finland'
 city = 'Helsinki'
+
+formatted_string = f'I am {first_name} {last_name}. I am {age} years old. I live in {city}, {country}.'
+print(formatted_string)
