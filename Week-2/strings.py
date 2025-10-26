@@ -65,3 +65,9 @@ print(' '.join(skills))  # join method joins the list elements with a space
 
 sentence = 'I love teaching and empowering people. I teach HTML, CSS, JS, Python, React, Node.js, D3.js, and more.'
 print(sentence.replace('love', 'hate'))
+
+first_name = 'Asabeneh'
+last_name = 'Yetayeh'
+age = 250
+country = 'Finland'
+city = 'Helsinki'
