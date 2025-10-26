@@ -78,3 +78,7 @@ print(formatted_string)
 a = 4
 b = 3
 print(f'{a} + {b} = {a + b}') # prints 4 + 3 = 7
+
+print(' %d  + %d = %d' %(a, b, a + b))
+
+print('%s%s' %("Hello", ", World!"))
