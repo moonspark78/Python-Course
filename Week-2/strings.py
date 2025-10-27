@@ -83,7 +83,11 @@ print(' %d  + %d = %d' %(a, b, a + b))
 
 print('%s%s' %("Hello", ", World!"))
 
-base = input(print("Enter your base: "))
-height = input(print("Enter your height: "))
-area = 0.5 * (base) * (height)
-print("The area of the triangle is " + (area))
+#base = input(print("Enter your base: "))
+#height = input(print("Enter your height: "))
+#area = 0.5 * (base) * (height)
+#print("The area of the triangle is " + (area))
+
+num1 = float(input("Enter number one: "))
+num2 = float(input("Enter number two: "))
+print(f"the area of the triangle is {0.5 * num1 * num2}")
