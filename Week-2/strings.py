@@ -82,3 +82,8 @@ print(f'{a} + {b} = {a + b}') # prints 4 + 3 = 7
 print(' %d  + %d = %d' %(a, b, a + b))
 
 print('%s%s' %("Hello", ", World!"))
+
+base = input(print("Enter your base: "))
+height = input(print("Enter your height: "))
+area = 0.5 * (base) * (height)
+print("The area of the triangle is " + (area))
