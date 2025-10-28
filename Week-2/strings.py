@@ -88,6 +88,10 @@ print('%s%s' %("Hello", ", World!"))
 #area = 0.5 * (base) * (height)
 #print("The area of the triangle is " + (area))
 
-num1 = float(input("Enter number one: "))
-num2 = float(input("Enter number two: "))
-print(f"the area of the triangle is {0.5 * num1 * num2}")
+#num1 = float(input("Enter number one: "))
+#num2 = float(input("Enter number two: "))
+#print(f"the area of the triangle is {0.5 * num1 * num2}")
+
+
+cit= "mississipi"
+print(set(cit))
