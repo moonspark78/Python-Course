@@ -15,3 +15,7 @@ print(names)
 
 mixed_list = [1, 'two', 3.0, True]
 print(mixed_list)
+
+# Accessing list items
+print(shopping_list[0])  # First item
+print(shopping_list[2])  # Third item
