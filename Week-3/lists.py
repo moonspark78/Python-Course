@@ -19,3 +19,7 @@ print(mixed_list)
 # Accessing list items
 print(shopping_list[0])  # First item
 print(shopping_list[2])  # Third item
+
+# Modifying list items
+shopping_list[1] = 'organic eggs'
+print(shopping_list)
