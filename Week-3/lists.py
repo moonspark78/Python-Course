@@ -1,6 +1,7 @@
 # List
 # ['item1', 'item2', 'item3']
 
+
 shopping_list = ['milk', 'eggs', 'bread', 'butter']
 print(shopping_list)
 print(type(shopping_list))
@@ -11,3 +12,6 @@ print(nums)
 
 names = ['Alice', 'Bob', 'Charlie']
 print(names)
+
+mixed_list = [1, 'two', 3.0, True]
+print(mixed_list)
