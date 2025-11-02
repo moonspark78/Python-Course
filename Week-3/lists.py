@@ -33,3 +33,6 @@ print(len(num))  # Length of the list
 
 last_index = len(num) - 1
 print(num[last_index])  # Accessing last item using length
+
+print(num[-1])  # Accessing last item using negative index
+print(num[-2])  # Accessing second last item using negative index
