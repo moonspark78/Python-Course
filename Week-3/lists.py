@@ -26,3 +26,7 @@ print(shopping_list)
 
 # Mixed data types
 data = [42, 'hello', 3.14, False, [1, 2, 3]]
+
+num= [1, 2, 3]
+print(num[0])  # Accessing first item
+print(len(num))  # Length of the list
