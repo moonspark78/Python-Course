@@ -27,6 +27,9 @@ print(shopping_list)
 # Mixed data types
 data = [42, 'hello', 3.14, False, [1, 2, 3]]
 
-num= [1, 2, 3]
+num= [1, 2, 12]
 print(num[0])  # Accessing first item
 print(len(num))  # Length of the list
+
+last_index = len(num) - 1
+print(num[last_index])  # Accessing last item using length
