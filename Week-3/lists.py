@@ -23,3 +23,6 @@ print(shopping_list[2])  # Third item
 # Modifying list items
 shopping_list[1] = 'organic eggs'
 print(shopping_list)
+
+# Mixed data types
+data = [42, 'hello', 3.14, False, [1, 2, 3]]
