@@ -45,3 +45,6 @@ print(fruits[0:3])
 print(fruits[2:5]) 
 print(fruits[2:])
 print(fruits[::-1])  # Reversing the list
+print(fruits[-3:])  # Last three items
+print(fruits[:3])  # First three items
+print(fruits[:])  # Entire list
