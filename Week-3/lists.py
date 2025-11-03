@@ -37,4 +37,8 @@ print(num[last_index])  # Accessing last item using length
 print(num[-1])  # Accessing last item using negative index
 print(num[-2])  # Accessing second last item using negative index
 print(num[-3])  # Accessing third last item using negative index
-print(num[-4])  # This will raise an IndexError
+#print(num[-4])  # This will raise an IndexError
+
+#sclicing
+fruits = ['apple', 'banana', 'cherry', 'date', 'elderberry']
+print(fruits[0:3])  
