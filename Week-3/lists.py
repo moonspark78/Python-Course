@@ -52,3 +52,15 @@ print(fruits[3:])
 print(fruits[-3:])
 print(fruits[-3::])
 
+# Modifying lists
+numbers = [1, 2, 3, 4, 5]
+numbers[0] = 10  
+print(numbers)
+
+numbers[2] = 33
+print(numbers)
+
+# Removing items
+numb = [10, 20, 30, 40, 50]
+numb.pop()  # Removes last item
+print(numb)
