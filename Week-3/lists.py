@@ -43,3 +43,4 @@ print(num[-3])  # Accessing third last item using negative index
 fruits = ['apple', 'banana', 'cherry', 'date', 'elderberry']
 print(fruits[0:3]) 
 print(fruits[2:5]) 
+print(fruits[2:])
