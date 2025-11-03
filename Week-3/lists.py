@@ -44,3 +44,4 @@ fruits = ['apple', 'banana', 'cherry', 'date', 'elderberry']
 print(fruits[0:3]) 
 print(fruits[2:5]) 
 print(fruits[2:])
+print(fruits[::-1])  # Reversing the list
