@@ -64,3 +64,7 @@ print(numbers)
 numb = [10, 20, 30, 40, 50]
 numb.pop()  # Removes last item
 print(numb)
+
+nmb = [1, 2, 3, 4, 5]
+nmb.pop(0)  # Removes item at index 0
+print(nmb)
