@@ -76,3 +76,5 @@ print(nmb)
 
 # insert
 colors = ['red', 'green', 'blue']
+colors.insert(1, 'yellow')  # Insert 'yellow' at index 1
+print(colors)
