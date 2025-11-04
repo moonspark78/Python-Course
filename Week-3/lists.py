@@ -73,3 +73,6 @@ print(nmb)
 nmb = [1, 2, 3, 4, 5]
 nmb.pop(1)  # Removes item at index 1
 print(nmb)
+
+# insert
+colors = ['red', 'green', 'blue']
