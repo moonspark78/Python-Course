@@ -85,3 +85,5 @@ print(colors)
 
 # Check item in list
 primes = [2, 3, 5, 7, 11]
+print(7 in primes)  # True
+print(4 in primes)  # False
