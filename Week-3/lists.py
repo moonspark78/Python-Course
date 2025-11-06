@@ -81,3 +81,7 @@ print(colors)
 
 colors.insert(2, 100)  
 print(colors) 
+
+
+# Check item in list
+primes = [2, 3, 5, 7, 11]
